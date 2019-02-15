@@ -11,3 +11,5 @@
     <img src="https://img.shields.io/badge/license-MIT-red.svg?longCache=true&style=for-the-badge">
   </a>
 </div>
+
+- Repositorio de SÓLO pruebas.
