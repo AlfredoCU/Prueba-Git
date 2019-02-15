@@ -1,4 +1,4 @@
-# Prueba-Git
+# Prueba-Git.
 
 <div align="center">
   <a href="https://www.npmjs.com/package/eslint-config-airbnb">
